@@ -1,0 +1,26 @@
+{
+  "name": "004",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Enrique J. Matta-Rodriguez <enrique.j.matta@gmail.com>",
+  "homepage": "https://github.com/ematta/zenva-game-dev-101-phaser#readme",
+  "license": "ISC",
+  "main": "lib/004.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ematta/zenva-game-dev-101-phaser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ematta/zenva-game-dev-101-phaser/issues"
+  }
+}
